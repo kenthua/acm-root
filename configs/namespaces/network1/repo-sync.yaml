@@ -11,6 +11,7 @@ spec:
   sourceFormat: unstructured
   git:
    repo: https://github.com/kenthua/acm-network1
+   revision: 1.0.0
    branch: main
    dir: "/"
    auth: none
